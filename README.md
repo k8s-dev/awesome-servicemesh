@@ -35,13 +35,14 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
  - [service-mesh-primer](https://leanpub.com/service-mesh-primer)
  - 
 ## Hands on Tutorials:
+
+[Interactive learning for servicemesh by OpenShift](https://learn.openshift.com/servicemesh) (in-browser!!)
 [Building your very own service mesh](https://medium.com/faun/building-your-very-own-service-mesh-4723895d061d)
-[https://learn.openshift.com/servicemesh](https://learn.openshift.com/servicemesh)
 ### Contributing
 -   Please contribute to making this list really awesome, exhaustive, and up to date, all contributions are Welcome!
 -   Contributing to this page is easy - Please send PR or open an issue with the information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTY4MzA5NCwtNTY2MTE0NTUwLC01Nz
+eyJoaXN0b3J5IjpbMTcwMzI2NDkzNiwtNTY2MTE0NTUwLC01Nz
 M0MDIzNiwzNDQ5ODAzMDMsMTM5ODcxNTA1MSwtMjM3NTcwMzc4
 LC0xNjQ0MDIyNjMwLC0xNDIzNjkyNTgwXX0=
 -->
