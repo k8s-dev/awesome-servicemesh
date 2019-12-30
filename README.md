@@ -29,12 +29,16 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 [glasnostic.com : Comparing service meshes linkerd vs istio](https://glasnostic.com/blog/comparing-service-meshes-linkerd-vs-istio)
 [kubedex.com : Istio vs linkerd vs linkerd2 vs consul](https://kubedex.com/istio-vs-linkerd-vs-linkerd2-vs-consul/)
 
+## Books and other resources:
+
+ - [service-mesh-primer](https://leanpub.com/service-mesh-primer)
+ - 
 
 ### Contributing
 -   Please contribute to making this list really awesome, exhaustive, and up to date, all contributions are Welcome!
 -   Contributing to this page is easy - Please send PR or open an issue with the information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3MjU4OTY3LC01NzM0MDIzNiwzNDQ5OD
-AzMDMsMTM5ODcxNTA1MSwtMjM3NTcwMzc4LC0xNjQ0MDIyNjMw
-LC0xNDIzNjkyNTgwXX0=
+eyJoaXN0b3J5IjpbLTU2NjExNDU1MCwtNTczNDAyMzYsMzQ0OT
+gwMzAzLDEzOTg3MTUwNTEsLTIzNzU3MDM3OCwtMTY0NDAyMjYz
+MCwtMTQyMzY5MjU4MF19
 -->
