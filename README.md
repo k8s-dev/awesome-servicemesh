@@ -1,7 +1,17 @@
-# awesome-servicemesh
+# Awesome Service Mesh
 All things Service-Mesh
 
 ## Contents
+ - [Istio](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Istio.md)
+ - [Linkerd](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Linkerd.md)
+ - [Consul ](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Consul.md)
+ - [Kuma](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Kuma.md)
+- [Aspen Mesh](https://github.com/k8s-dev/awesome-servicemesh/blob/master/AspenMesh.md)
+- [OpenShift Service Mesh](https://github.com/k8s-dev/awesome-servicemesh/blob/master/OpenShiftServiceMesh.md)
+
+For a comprehensive list of service meshes around, have a look at : [Service Mesh Landscape](https://layer5.io/landscape/)
+
+
 
  What is a Service Mesh
 
@@ -13,26 +23,13 @@ All things Service-Mesh
   - [Introduction to service mesh](https://medium.com/@arjunrc143/introduction-to-service-mesh-4fc2b872d4f9)   (Intermediate)
   - [Great introduction to Service Mesh](https://medium.com/microservices-in-practice/service-mesh-for-microservices-2953109a3c9a)    (Advanced)
 
-## Service Mesh Eco-System
-Currently the following are the available options, and this list is ever-growing:
- - [Istio](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Istio.md)
- - [Linkerd](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Linkerd.md)
- - [Consul ](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Consul.md)
- - [Kuma](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Kuma.md)
-- [Aspen Mesh](https://github.com/k8s-dev/awesome-servicemesh/blob/master/AspenMesh.md)
-- [OpenShift Service Mesh](https://github.com/k8s-dev/awesome-servicemesh/blob/master/OpenShiftServiceMesh.md)
 
-For a comprehensive list of service meshes around, have a look at : [Service Mesh Landscape](https://layer5.io/landscape/)
 
 ## Comparison
-[Service Mesh Comparison](https://servicemesh.es) - A Great resource!
-
-[Platform9 Blog : A comparison of istio, linkerd and consul](https://platform9.com/blog/kubernetes-service-mesh-a-comparison-of-istio-linkerd-and-consul/) 
-
-[thenewstack.io : Which service mesh should i use?](https://thenewstack.io/which-service-mesh-should-i-use/)
-
-[glasnostic.com : Comparing service meshes linkerd vs istio](https://glasnostic.com/blog/comparing-service-meshes-linkerd-vs-istio)
-
+[Service Mesh Comparison](https://servicemesh.es) - A Great resource! 
+[Platform9 Blog : A comparison of istio, linkerd and consul](https://platform9.com/blog/kubernetes-service-mesh-a-comparison-of-istio-linkerd-and-consul/)  
+[thenewstack.io : Which service mesh should i use?](https://thenewstack.io/which-service-mesh-should-i-use/) 
+[glasnostic.com : Comparing service meshes linkerd vs istio](https://glasnostic.com/blog/comparing-service-meshes-linkerd-vs-istio) 
 [kubedex.com : Istio vs linkerd vs linkerd2 vs consul](https://kubedex.com/istio-vs-linkerd-vs-linkerd2-vs-consul/)
 
 ## Books
@@ -55,12 +52,13 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 
 ## Projects
 [The multi-service mesh management plane : Meshery](https://meshery.io/) 
+
 ### Contributing
 -   Please contribute to making this list really awesome, exhaustive, and up to date, all contributions are Welcome!
 -   Contributing to this page is easy - Please send PR or open an issue with the information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjU1Njc5MCwtMTkyODU3MTk1MywzNj
-Q0MDE0MjUsLTU2NjExNDU1MCwtNTczNDAyMzYsMzQ0OTgwMzAz
-LDEzOTg3MTUwNTEsLTIzNzU3MDM3OCwtMTY0NDAyMjYzMCwtMT
-QyMzY5MjU4MF19
+eyJoaXN0b3J5IjpbLTE2MzY3MTgzMDksLTE5Mjg1NzE5NTMsMz
+Y0NDAxNDI1LC01NjYxMTQ1NTAsLTU3MzQwMjM2LDM0NDk4MDMw
+MywxMzk4NzE1MDUxLC0yMzc1NzAzNzgsLTE2NDQwMjI2MzAsLT
+E0MjM2OTI1ODBdfQ==
 -->
