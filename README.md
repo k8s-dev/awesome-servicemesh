@@ -24,14 +24,14 @@ Currently the following are the available options, and this list is ever-growing
 
 For a comprehensive list of service meshes around, have a look at : [Service Mesh Landscape](https://layer5.io/landscape/)
 
-## Comparison:
+## Comparison
 [Service Mesh Comparison](https://servicemesh.es) - A Great resource!
 [Platform9 Blog : A comparison of istio, linkerd and consul](https://platform9.com/blog/kubernetes-service-mesh-a-comparison-of-istio-linkerd-and-consul/) 
 [thenewstack.io : Which service mesh should i use?](https://thenewstack.io/which-service-mesh-should-i-use/)
 [glasnostic.com : Comparing service meshes linkerd vs istio](https://glasnostic.com/blog/comparing-service-meshes-linkerd-vs-istio)
 [kubedex.com : Istio vs linkerd vs linkerd2 vs consul](https://kubedex.com/istio-vs-linkerd-vs-linkerd2-vs-consul/)
 
-## Books and other resources:
+## Books
 
  - [Istio Up and Running](https://www.oreilly.com/library/view/istio-up-and/9781492043775/)
  - [The Enterprise Path to Service Mesh Architectures](https://www.nginx.com/resources/library/the-enterprise-path-to-service-mesh-architectures)
@@ -40,21 +40,20 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
  - [The Service Mesh](https://www.oreilly.com/library/view/the-service-mesh/9781492031321/) (O'Reilly Media)
  - [Mastering Service Mesh Architecture](https://www.packtpub.com/in/web-development/mastering-service-mesh-architecture)
  - [Introducing Istio Service Mesh Microservices](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/)
-## Hands on Tutorials:
+## Hands on Tutorials
 [Learn Service Meshes using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/servicemesh)
 [Interactive learning for servicemesh by OpenShift](https://learn.openshift.com/servicemesh) (in-browser!!)
 [Building your very own service mesh](https://medium.com/faun/building-your-very-own-service-mesh-4723895d061d)
 [Istio service mesh workshop](https://github.com/layer5io/istio-service-mesh-workshop)
 
-## Control Plane
-
+## Blogs
+[infoq ](https://www.infoq.com/servicemesh/)
 [The multi-service mesh management plane : Meshery](https://meshery.io/) 
 ### Contributing
 -   Please contribute to making this list really awesome, exhaustive, and up to date, all contributions are Welcome!
 -   Contributing to this page is easy - Please send PR or open an issue with the information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQ3NTI2MzEsMzY0NDAxNDI1LC01Nj
-YxMTQ1NTAsLTU3MzQwMjM2LDM0NDk4MDMwMywxMzk4NzE1MDUx
-LC0yMzc1NzAzNzgsLTE2NDQwMjI2MzAsLTE0MjM2OTI1ODBdfQ
-==
+eyJoaXN0b3J5IjpbLTQxMDkzMDkzNywzNjQ0MDE0MjUsLTU2Nj
+ExNDU1MCwtNTczNDAyMzYsMzQ0OTgwMzAzLDEzOTg3MTUwNTEs
+LTIzNzU3MDM3OCwtMTY0NDAyMjYzMCwtMTQyMzY5MjU4MF19
 -->
