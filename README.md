@@ -41,10 +41,11 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
  - [The Service Mesh](https://www.oreilly.com/library/view/the-service-mesh/9781492031321/) (O'Reilly Media)
  - [Mastering Service Mesh Architecture](https://www.packtpub.com/in/web-development/mastering-service-mesh-architecture)
  - [Introducing Istio Service Mesh Microservices](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/)
+ 
 ## Hands on Tutorials
-[Learn Service Meshes using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/servicemesh)
-[Interactive learning for servicemesh by OpenShift](https://learn.openshift.com/servicemesh) (in-browser!!)
-[Building your very own service mesh](https://medium.com/faun/building-your-very-own-service-mesh-4723895d061d)
+[Learn Service Meshes using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/servicemesh) 
+[Interactive learning for servicemesh by OpenShift](https://learn.openshift.com/servicemesh) (in-browser!!)  
+[Building your very own service mesh](https://medium.com/faun/building-your-very-own-service-mesh-4723895d061d) 
 [Istio service mesh workshop](https://github.com/layer5io/istio-service-mesh-workshop)
 
 ## Blogs and References
@@ -57,7 +58,7 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 -   Please contribute to making this list really awesome, exhaustive, and up to date, all contributions are Welcome!
 -   Contributing to this page is easy - Please send PR or open an issue with the information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY3MTgzMDksLTE5Mjg1NzE5NTMsMz
+eyJoaXN0b3J5IjpbLTE2MzgxNzUwMTUsLTE5Mjg1NzE5NTMsMz
 Y0NDAxNDI1LC01NjYxMTQ1NTAsLTU3MzQwMjM2LDM0NDk4MDMw
 MywxMzk4NzE1MDUxLC0yMzc1NzAzNzgsLTE2NDQwMjI2MzAsLT
 E0MjM2OTI1ODBdfQ==
