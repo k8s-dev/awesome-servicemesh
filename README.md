@@ -33,10 +33,11 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 
 ## Books and other resources:
 
- - [The enterprise path to service mesh architectures](https://www.nginx.com/resources/library/the-enterprise-path-to-service-mesh-architectures)
- - [Istio in action](https://www.manning.com/books/istio-in-action)
- - [service-mesh-primer](https://leanpub.com/service-mesh-primer)
- - [The service mesh](https://www.oreilly.com/library/view/the-service-mesh/9781492031321/) (O'Reilly Media)
+ - [The Enterprise Path to Service Mesh Architectures](https://www.nginx.com/resources/library/the-enterprise-path-to-service-mesh-architectures)
+ - [Istio in Action](https://www.manning.com/books/istio-in-action)
+ - [Service Mesh Primer](https://leanpub.com/service-mesh-primer)
+ - [The Service Mesh](https://www.oreilly.com/library/view/the-service-mesh/9781492031321/) (O'Reilly Media)
+ - [Mastering Service Mesh Architecture](https://www.packtpub.com/in/web-development/mastering-service-mesh-architecture)
  - [Introducing istio service mesh microservices](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/)
 ## Hands on Tutorials:
 [Learn Service Meshes using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/servicemesh)
@@ -51,8 +52,7 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 -   Please contribute to making this list really awesome, exhaustive, and up to date, all contributions are Welcome!
 -   Contributing to this page is easy - Please send PR or open an issue with the information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI3Mjc3NDIsMzY0NDAxNDI1LC01Nj
-YxMTQ1NTAsLTU3MzQwMjM2LDM0NDk4MDMwMywxMzk4NzE1MDUx
-LC0yMzc1NzAzNzgsLTE2NDQwMjI2MzAsLTE0MjM2OTI1ODBdfQ
-==
+eyJoaXN0b3J5IjpbLTU5MjUzNDk4LDM2NDQwMTQyNSwtNTY2MT
+E0NTUwLC01NzM0MDIzNiwzNDQ5ODAzMDMsMTM5ODcxNTA1MSwt
+MjM3NTcwMzc4LC0xNjQ0MDIyNjMwLC0xNDIzNjkyNTgwXX0=
 -->
