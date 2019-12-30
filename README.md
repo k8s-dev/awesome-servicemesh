@@ -33,7 +33,7 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 
 ## Books and other resources:
 
- - 
+ - [The enterprise path to service mesh architectures](https://www.nginx.com/resources/library/the-enterprise-path-to-service-mesh-architectures)
  - [service-mesh-primer](https://leanpub.com/service-mesh-primer)
  - 
 ## Hands on Tutorials:
@@ -49,8 +49,7 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 -   Please contribute to making this list really awesome, exhaustive, and up to date, all contributions are Welcome!
 -   Contributing to this page is easy - Please send PR or open an issue with the information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY4ODk4MjMsMzY0NDAxNDI1LC01Nj
-YxMTQ1NTAsLTU3MzQwMjM2LDM0NDk4MDMwMywxMzk4NzE1MDUx
-LC0yMzc1NzAzNzgsLTE2NDQwMjI2MzAsLTE0MjM2OTI1ODBdfQ
-==
+eyJoaXN0b3J5IjpbLTY5NDM5NDMwMiwzNjQ0MDE0MjUsLTU2Nj
+ExNDU1MCwtNTczNDAyMzYsMzQ0OTgwMzAzLDEzOTg3MTUwNTEs
+LTIzNzU3MDM3OCwtMTY0NDAyMjYzMCwtMTQyMzY5MjU4MF19
 -->
