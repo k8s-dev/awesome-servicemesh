@@ -46,14 +46,17 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 [Building your very own service mesh](https://medium.com/faun/building-your-very-own-service-mesh-4723895d061d)
 [Istio service mesh workshop](https://github.com/layer5io/istio-service-mesh-workshop)
 
-## Blogs
-[infoq ](https://www.infoq.com/servicemesh/)
+## Blogs and References
+[infoq: servicemesh topic](https://www.infoq.com/servicemesh/)
+
+## Projects
 [The multi-service mesh management plane : Meshery](https://meshery.io/) 
 ### Contributing
 -   Please contribute to making this list really awesome, exhaustive, and up to date, all contributions are Welcome!
 -   Contributing to this page is easy - Please send PR or open an issue with the information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDkzMDkzNywzNjQ0MDE0MjUsLTU2Nj
-ExNDU1MCwtNTczNDAyMzYsMzQ0OTgwMzAzLDEzOTg3MTUwNTEs
-LTIzNzU3MDM3OCwtMTY0NDAyMjYzMCwtMTQyMzY5MjU4MF19
+eyJoaXN0b3J5IjpbLTE5Mjg1NzE5NTMsMzY0NDAxNDI1LC01Nj
+YxMTQ1NTAsLTU3MzQwMjM2LDM0NDk4MDMwMywxMzk4NzE1MDUx
+LC0yMzc1NzAzNzgsLTE2NDQwMjI2MzAsLTE0MjM2OTI1ODBdfQ
+==
 -->
