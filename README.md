@@ -23,17 +23,18 @@ Currently the following are the available options, and this list is ever-growing
 For a comprehensive list of service meshes around, have a look at : [Service Mesh Landscape](https://layer5.io/landscape/)
 
 ## Comparison:
+[Service Mesh Comparison](https://servicemesh.es) - Great resource!
 [Platform9 Blog : A comparison of istio, linkerd and consul](https://platform9.com/blog/kubernetes-service-mesh-a-comparison-of-istio-linkerd-and-consul/) 
 [thenewstack.io : Which service mesh should i use?](https://thenewstack.io/which-service-mesh-should-i-use/)
 [glasnostic.com : Comparing service meshes linkerd vs istio](https://glasnostic.com/blog/comparing-service-meshes-linkerd-vs-istio)
 [kubedex.com : Istio vs linkerd vs linkerd2 vs consul](https://kubedex.com/istio-vs-linkerd-vs-linkerd2-vs-consul/)
-[Service Mesh 
-### Contributing
+[Service Mesh Comparison](https://servicemesh.es)
 
--   Please contribute to making this list really awesome, exhaustive, and up to date, all contributions are welcome!
+### Contributing
+-   Please contribute to making this list really awesome, exhaustive, and up to date, all contributions are Welcome!
 -   Contributing to this page is easy - Please send PR or open an issue with the information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTcwODI4OTUsLTU3MzQwMjM2LDM0ND
-k4MDMwMywxMzk4NzE1MDUxLC0yMzc1NzAzNzgsLTE2NDQwMjI2
-MzAsLTE0MjM2OTI1ODBdfQ==
+eyJoaXN0b3J5IjpbMTAxOTgxNDE2MSwtNTczNDAyMzYsMzQ0OT
+gwMzAzLDEzOTg3MTUwNTEsLTIzNzU3MDM3OCwtMTY0NDAyMjYz
+MCwtMTQyMzY5MjU4MF19
 -->
