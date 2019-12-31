@@ -11,7 +11,7 @@ All things Service-Mesh
 
 For a comprehensive list of service meshes around, have a look at : [Service Mesh Landscape](https://layer5.io/landscape/)
 
-
+---
 
  What is a Service Mesh
 
@@ -54,12 +54,13 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 ## Projects
 [The multi-service mesh management plane : Meshery](https://meshery.io/) 
 
+---
 ### Contributing
 -   Please contribute to making this list really awesome, exhaustive, and up to date, all contributions are Welcome!
 -   Contributing to this page is easy - Please send PR or open an issue with the information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjczMDM1MSwtMTkyODU3MTk1MywzNj
-Q0MDE0MjUsLTU2NjExNDU1MCwtNTczNDAyMzYsMzQ0OTgwMzAz
-LDEzOTg3MTUwNTEsLTIzNzU3MDM3OCwtMTY0NDAyMjYzMCwtMT
-QyMzY5MjU4MF19
+eyJoaXN0b3J5IjpbNDEwODg2MzY3LC0xOTI4NTcxOTUzLDM2ND
+QwMTQyNSwtNTY2MTE0NTUwLC01NzM0MDIzNiwzNDQ5ODAzMDMs
+MTM5ODcxNTA1MSwtMjM3NTcwMzc4LC0xNjQ0MDIyNjMwLC0xND
+IzNjkyNTgwXX0=
 -->
