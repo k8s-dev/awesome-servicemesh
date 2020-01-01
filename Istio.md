@@ -29,7 +29,7 @@
 
 
 | Title/link                                                                                                  | Instructor                      | Note                   |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------- | ---------------------- |
+| :----------------------------------------------------------------------------------------------------------- | :------------------------------- | :---------------------- |
 | [What is Istio](https://www.youtube.com/watch?v=1iyFq2VaL5Y)                                                | JJ Asghar                       |                        |
 | [Microservices in the Cloud with Kubernetes and Istio](https://www.youtube.com/watch?v=gauOI0O9fRM)         | Sandeep Dinesh                  | Google I/O 2018        |
 | [Building Cloud Native Applications with Kubernetes and Istio](https://www.youtube.com/watch?v=6BYq6hNhceI) | Kelsey Hightower                | O'Reilly VelocityConf  |
@@ -44,13 +44,13 @@
 
 ## Books
 | Title                                                                                                                             | Authour                         | Publisher            |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | -------------------- |
+| :--------------------------------------------------------------------------------------------------------------------------------- | :------------------------------- | :-------------------- |
 | [Introducing Istio Service Mesh Microservices](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/) | Burr Sutter, Christian Posta    | O'Reilly Media, Inc. |
 | [Istio Up and Running](https://www.oreilly.com/library/view/istio-up-and/9781492043775/)                                          | Zack Butcher, Lee Calcote       | O'Reilly Media, Inc. |
 | [Istio in Action](https://www.manning.com/books/istio-in-action)                                                                  | Christian Posta, Sandeep Parikh | Manning              |
 | [Getting Started with Istio Service Mesh: Manage Microservices in Kubernetes](https://www.oreilly.com/library/view/getting-started-with/9781484254585/)                                                                                                                                  |   Avinash Singh, Rahul Sharma                              |          Apress            |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzNDU0MjA5LC0xMTkwNjIzMDg5LC0xOD
+eyJoaXN0b3J5IjpbNDU4MDQ0MTc3LC0xMTkwNjIzMDg5LC0xOD
 gwNTgyNDAwXX0=
 -->
