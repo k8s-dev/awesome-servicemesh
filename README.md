@@ -34,13 +34,11 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 
 ## Books
 
- - [Istio Up and Running](https://www.oreilly.com/library/view/istio-up-and/9781492043775/)
- - [Istio in Action](https://www.manning.com/books/istio-in-action)
- - [Service Mesh Primer](https://leanpub.com/service-mesh-primer)
- - [The Service Mesh](https://www.oreilly.com/library/view/the-service-mesh/9781492031321/) (O'Reilly Media)
- - [Mastering Service Mesh Architecture](https://www.packtpub.com/in/web-development/mastering-service-mesh-architecture)
- - [Introducing Istio Service Mesh Microservices](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/)         
- - [The Enterprise Path to Service Mesh Architectures](https://www.nginx.com/resources/library/the-enterprise-path-to-service-mesh-architectures)
+| Title | Author | Publisher |
+| ----- | ------ | --------- |
+| [Service Mesh Primer](https://leanpub.com/service-mesh-primer)      |       Eberhard Wolff, Hanna Prinz |     Innoq      |
+|  [The Service Mesh](https://www.oreilly.com/library/view/the-service-mesh/9781492031321/)      |   George Miranda      |       O'Reilly Media, Inc.    |
+| [Mastering Service Mesh Architecture](https://www.packtpub.com/in/web-development/mastering-service-mesh-architecture) |   Anjali Khatri, Vikram Khatri|  Packt (coming in Feb 2020)  |
  
 ## Hands on Tutorials
 [Learn Service Meshes using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/servicemesh)               
@@ -59,8 +57,8 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 -   Please contribute to making this list really awesome, exhaustive, and up to date, all contributions are Welcome!
 -   Contributing to this page is easy - Please send PR or open an issue with the information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwODg2MzY3LC0xOTI4NTcxOTUzLDM2ND
-QwMTQyNSwtNTY2MTE0NTUwLC01NzM0MDIzNiwzNDQ5ODAzMDMs
-MTM5ODcxNTA1MSwtMjM3NTcwMzc4LC0xNjQ0MDIyNjMwLC0xND
-IzNjkyNTgwXX0=
+eyJoaXN0b3J5IjpbLTEwNTUxOTAwNzYsLTE5Mjg1NzE5NTMsMz
+Y0NDAxNDI1LC01NjYxMTQ1NTAsLTU3MzQwMjM2LDM0NDk4MDMw
+MywxMzk4NzE1MDUxLC0yMzc1NzAzNzgsLTE2NDQwMjI2MzAsLT
+E0MjM2OTI1ODBdfQ==
 -->
