@@ -22,7 +22,7 @@
 
 ---
 
-
+## Videos
 
 
 
@@ -42,8 +42,15 @@
 | [Find issues in your Istio mesh with Kiali](https://www.youtube.com/watch?v=6NWPi8lm2Y0)                    | Heiko Rupp                      |                        |
 | [Istio in Production: Day 2 Traffic Routing](https://www.youtube.com/watch?v=7cINRP0BFY8)                                                                                                            |                               Megan O'Keefe  |       Google Cloud Next 2019                 |
 
+## Books
+| Title                                                                                                                             | Authour                         | Publisher            |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | -------------------- |
+| [Introducing Istio Service Mesh Microservices](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/) | Burr Sutter, Christian Posta    | O'Reilly Media, Inc. |
+| [Istio Up and Running](https://www.oreilly.com/library/view/istio-up-and/9781492043775/)                                          | Zack Butcher, Lee Calcote       | O'Reilly Media, Inc. |
+| [Istio in Action](https://www.manning.com/books/istio-in-action)                                                                  | Christian Posta, Sandeep Parikh | Manning              |
+| [Getting Started with Istio Service Mesh: Manage Microservices in Kubernetes](https://www.oreilly.com/library/view/getting-started-with/9781484254585/)                                                                                                                                  |   Avinash Singh, Rahul Sharma                              |          Apress            |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzQzODI4OCwtMTE5MDYyMzA4OSwtMT
-g4MDU4MjQwMF19
+eyJoaXN0b3J5IjpbNTEzNDU0MjA5LC0xMTkwNjIzMDg5LC0xOD
+gwNTgyNDAwXX0=
 -->
