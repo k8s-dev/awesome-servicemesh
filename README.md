@@ -50,6 +50,7 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 [infoq: servicemesh topic](https://www.infoq.com/servicemesh/)
 
 [**ServiceMeshDay2019** Schedule](https://servicemeshday.com/schedule.html), [Playlist](https://www.youtube.com/playlist?list=PLWNb_OjvOJz8nTnOVP7a4tSnzWxeJJdpL)
+
 [**ServiceMeshCon2019** Schedule](https://servicemeshcon2019.sched.com), [ Playlist](https://www.youtube.com/playlist?list=PLj6h78yzYM2OOcTYlKcmrXz0obGJ7YRGU), [Presentations](https://github.com/k8s-dev/servicemeshcon-19)
 
 ## Projects
@@ -60,8 +61,8 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 -   Please contribute to making this list really awesome, exhaustive, and up to date, all contributions are Welcome!
 -   Contributing to this page is easy - Please send PR or open an issue with the information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTEyMzEzNywtMTA1NTE5MDA3NiwtMT
-kyODU3MTk1MywzNjQ0MDE0MjUsLTU2NjExNDU1MCwtNTczNDAy
-MzYsMzQ0OTgwMzAzLDEzOTg3MTUwNTEsLTIzNzU3MDM3OCwtMT
-Y0NDAyMjYzMCwtMTQyMzY5MjU4MF19
+eyJoaXN0b3J5IjpbLTQ1MTM0NTA5LC0xMDU1MTkwMDc2LC0xOT
+I4NTcxOTUzLDM2NDQwMTQyNSwtNTY2MTE0NTUwLC01NzM0MDIz
+NiwzNDQ5ODAzMDMsMTM5ODcxNTA1MSwtMjM3NTcwMzc4LC0xNj
+Q0MDIyNjMwLC0xNDIzNjkyNTgwXX0=
 -->
