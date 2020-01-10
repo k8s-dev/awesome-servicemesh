@@ -2,12 +2,12 @@
 All things Service-Mesh
 
 ## Contents
- - [Istio](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Istio.md)
- - [Linkerd](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Linkerd.md)
- - [Consul ](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Consul.md)
- - [Kuma](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Kuma.md)
-- [Aspen Mesh](https://github.com/k8s-dev/awesome-servicemesh/blob/master/AspenMesh.md)
-- [OpenShift Service Mesh](https://github.com/k8s-dev/awesome-servicemesh/blob/master/OpenShiftServiceMesh.md)
+ - [Istio](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Istio.md) : An open platform to connect, manage, and secure microservices
+ - [Linkerd](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Linkerd.md)  : An ultralight service mesh for Kubernetes and beyond
+ - [Consul ](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Consul.md) : A distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+ - [Kuma](https://github.com/k8s-dev/awesome-servicemesh/blob/master/Kuma.md) : A universal open source control-plane for Service Mesh and Microservices, supports K8s and VM
+- [Aspen Mesh](https://github.com/k8s-dev/awesome-servicemesh/blob/master/AspenMesh.md) : A simpler and more powerful distribution of Istio
+- [OpenShift Service Mesh](https://github.com/k8s-dev/awesome-servicemesh/blob/master/OpenShiftServiceMesh.md) : Connect, manage, and observe microservices-based applications with security-focused Istio and Red Hat OpenShift
 
 For a comprehensive list of service meshes around, have a look at : [Service Mesh Landscape](https://layer5.io/landscape/)
 
@@ -61,8 +61,8 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 -   Please contribute to making this list really awesome, exhaustive, and up to date, all contributions are Welcome!
 -   Contributing to this page is easy - Please send PR or open an issue with the information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTM0NTA5LC0xMDU1MTkwMDc2LC0xOT
-I4NTcxOTUzLDM2NDQwMTQyNSwtNTY2MTE0NTUwLC01NzM0MDIz
-NiwzNDQ5ODAzMDMsMTM5ODcxNTA1MSwtMjM3NTcwMzc4LC0xNj
-Q0MDIyNjMwLC0xNDIzNjkyNTgwXX0=
+eyJoaXN0b3J5IjpbMTM2MDg5MDE5MCwtNDUxMzQ1MDksLTEwNT
+UxOTAwNzYsLTE5Mjg1NzE5NTMsMzY0NDAxNDI1LC01NjYxMTQ1
+NTAsLTU3MzQwMjM2LDM0NDk4MDMwMywxMzk4NzE1MDUxLC0yMz
+c1NzAzNzgsLTE2NDQwMjI2MzAsLTE0MjM2OTI1ODBdfQ==
 -->
