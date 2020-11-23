@@ -36,7 +36,7 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 
 | Title | Author | Publisher |
 | :----- | :------ | :--------- |
-| [Service Mesh Primer](https://leanpub.com/service-mesh-primer)      |       Eberhard Wolff, Hanna Prinz |     Innoq      |
+| [Service Mesh Primer](https://leanpub.com/service-mesh-primer)      |       Eberhard Wolff, Hanna Prinz |     INNOQ       |
 |  [The Service Mesh](https://www.oreilly.com/library/view/the-service-mesh/9781492031321/)      |   George Miranda      |       O'Reilly Media, Inc.    |
 | [Mastering Service Mesh Architecture](https://www.packtpub.com/in/web-development/mastering-service-mesh-architecture) |   Anjali Khatri, Vikram Khatri|  Packt (coming in Feb 2020)  |
  
